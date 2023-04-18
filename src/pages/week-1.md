@@ -14,5 +14,11 @@
 
 ### Tuesday, April 25th (3h)
 
-- HTML
-
+- Markup languages. HTML. Entities. Comments. Element Trees. Minimal Document.
+- Metadata: title, links, styles, scripts, metainformation.
+- Text-level tags: `<p>`, `<br>`, `<em>`, `<strong>`, `<code>`, `<pre>`, `<a>`, `<span>`.
+- Sections: `<main>`, `<article>`, `<section>`, `<nav>`, `<header>`, `<footer>`.
+- The `<div>` tag.
+- CSS. Styling HTML. CSS Syntax. 
+- Selectors. Tag selector. Union or group. Descendant.
+- Values and Properties.
