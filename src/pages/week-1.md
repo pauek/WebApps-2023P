@@ -1,6 +1,6 @@
-## Week 1
+## Block 1
 
-### Tuesday (3h)
+### Friday, April 21st (2h)
 
 - Terminals, commands. 
 - What is [NodeJS](https://nodejs.org), download LTS version (zip).
@@ -12,5 +12,7 @@
 - Sharing projects: delete `node_modules`, create ZIP. Getting a project: decompressing ZIP, `npm install`. 
 - Share a project in [Atenea](https://atenea.upc.edu).
 
-### Thursday (2h)
+### Tuesday, April 25th (3h)
+
+- HTML
 
