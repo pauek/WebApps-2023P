@@ -1,4 +1,4 @@
-## Block 1
+## Block 1: The Platform
 
 ### Friday, April 21st (2h): Introduction
 

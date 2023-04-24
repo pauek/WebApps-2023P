@@ -1,15 +1,23 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import Block1 from "./block-1.md";
+import Block1 from "./block-1-platform.md";
 ---
 
 <Layout>
   <h1>Web Applications</h1>
   <Block1 />
+  <footer>
+    <span>&copy; 2023, <a href="https://pauek.info">Pau Fernández</a></span>
+  </footer>
 </Layout>
 
 <style is:global>
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
   }
@@ -24,7 +32,24 @@ import Block1 from "./block-1.md";
   }
   code {
     font-size: 95%;
-    margin-left: .2rem;
-    margin-right: .2rem;
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+  }
+  footer {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    text-align: center;
+    border: none;
+    height: 5rem;
+    font-size: 9pt;
+    color: rgba(0, 0, 0, 0.4);
+    font-style: italic;
+  }
+  footer a {
+    text-decoration: none;
+    color: inherit;
+    display: inline;
   }
 </style>
