@@ -20,9 +20,9 @@
 - Text-level tags: `<p>`, `<br>`, `<em>`, `<strong>`, `<code>`, `<pre>`, `<a>`, `<span>`.
 - Sections: `<main>`, `<article>`, `<section>`, `<nav>`, `<header>`, `<footer>`.
 - The `<div>` tag.
-- CSS. Styling HTML. CSS Syntax. 
+- CSS. [CSS Zen Garden](https://csszengarden.com). Styling HTML. CSS Syntax. 
 - Selectors. Tag selector. Union or group. Descendant.
-- Values and Properties.
+- Values and Properties. [CSSReference](https://cssreference.io).
 
 ### Friday, April 28th (2h): HTML & CSS 2
 
