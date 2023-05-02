@@ -24,7 +24,14 @@
 - Selectors. Tag selector. Union or group. Descendant.
 - Values and Properties. [CSSReference](https://cssreference.io).
 
-### Friday, April 28th (2h): HTML & CSS 2
+### Friday, April 28th (2h): Git Basics
+
+- Version Control. [Git](https://git-scm.com).
+- Repositories, commits.
+- GitHub. Publishing to GitHub from VSCode.
+- Deploying to Vercel.
+
+### Tuesday, May 2nd (3h): HTML & CSS 2
 
 - Embedding:  `<image>`, `<svg>`. 
 - Lists: `<ol>`, `<ul>`, `<li>`.
@@ -33,7 +40,7 @@
 - CSS Variables.
 - The CSS Cascade.
 
-### Tuesday, May 2nd (3h): Javascript Basics.
+### Friday, May 5th (2h): Javascript Basics
 
 - Basic Types. Conversions. `typeof`.
 - Variables. `let`, `const`.
@@ -41,7 +48,7 @@
 - If. If-else. If-else-if.
 - Loops: `while`, `for`.
 
-### Friday, May 5th (2h): The DOM
+### Tuesday, May 7th (3h): The DOM
 
 - The Document Object Model (DOM).
 - Element Queries: `getElementById`, `getElementsByTagName`, `getElementsByClassName`, `querySelector`, `querySelectorAll`.
@@ -50,7 +57,7 @@
 - Events: `addEventListener`, `removeEventListener`. Event bubbling.
 - Forms: `<form>`, `<input>`, `<button>`.
 
-### Tuesday, May 7th (3h): Javascript Objects.
+### Friday, May 10th (2h): Javascript Objects.
 
 - Functions: definition; calls; results; parameters.
 - Objects: properties/attributes/fields; adding or removing fields; field existence; property iteration.
