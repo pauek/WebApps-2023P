@@ -33,9 +33,9 @@
 
 ### Tuesday, May 2nd (3h): HTML & CSS 2
 
-- Embedding:  `<image>`, `<svg>`. 
-- Lists: `<ol>`, `<ul>`, `<li>`.
-- Global Attributes: `id`, `class`, `style`. More CSS Selectors.
+- Embedding: `<img>`, `<svg>`. 
+- Lists: `<ol>`, `<ul>`, `<li>`. `type` and `value` attributes.
+- Global Attributes: `id`, `class`, `style`. Class selectors (`.class`), ID selectors (`#id`).
 - Flexbox ([csstricks article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)).
 - CSS Variables.
 - The CSS Cascade.
