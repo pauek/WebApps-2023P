@@ -38,10 +38,10 @@
 - Global Attributes: `id`, `class`, `style`. Class selectors (`.class`), ID selectors (`#id`).
 - Flexbox ([csstricks article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)).
 - CSS Variables.
-- The CSS Cascade.
 
 ### Friday, May 5th (2h): Javascript Basics
 
+- The CSS Cascade.
 - Basic Types. Conversions. `typeof`.
 - Variables. `let`, `const`.
 - Operators. Javascript weirdnesses. Triple Equality (`===`). `Number.isNan`.
