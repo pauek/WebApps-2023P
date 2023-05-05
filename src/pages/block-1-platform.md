@@ -41,7 +41,7 @@
 
 ### Friday, May 5th (2h): Javascript Basics
 
-- The CSS Cascade. [Amelia Wattenberger CSS Cascade site](https://wattenberger.com/blog/css-cascade)
+- The CSS Cascade. [Amelia Wattenberger CSS Cascade site](https://wattenberger.com/blog/css-cascade). [CSS Cascade Slides](/pdf/HTML-CSS2.pdf)
 - Basic Types. Conversions. `typeof`.
 - Variables. `let`, `const`.
 - Operators. Javascript weirdnesses. Triple Equality (`===`). `Number.isNan`.
