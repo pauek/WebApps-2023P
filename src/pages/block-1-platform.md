@@ -48,16 +48,7 @@
 - If. If-else. If-else-if.
 - Loops: `while`, `for`.
 
-### Tuesday, May 7th (3h): The DOM
-
-- The Document Object Model (DOM).
-- Element Queries: `getElementById`, `getElementsByTagName`, `getElementsByClassName`, `querySelector`, `querySelectorAll`.
-- `HTMLElement`: `textContent`, `classList`, `innerHTML`.
-- Node creation: `createElement`, `createTextNode`.
-- Events: `addEventListener`, `removeEventListener`. Event bubbling.
-- Forms: `<form>`, `<input>`, `<button>`.
-
-### Friday, May 10th (2h): Javascript Objects.
+### Tuesday, May 7th (3h): Javascript Objects.
 
 - Functions: definition; calls; results; parameters.
 - Objects: properties/attributes/fields; adding or removing fields; field existence; property iteration.
@@ -65,3 +56,12 @@
 - Array Methods: `slice`, `splice`, `split`, `join`, `indexOf`.
 - JSON: `JSON.parse`, `JSON.stringify`.
 
+
+### Friday, May 10th (2h): The DOM
+
+- The Document Object Model (DOM).
+- Element Queries: `getElementById`, `getElementsByTagName`, `getElementsByClassName`, `querySelector`, `querySelectorAll`.
+- `HTMLElement`: `textContent`, `classList`, `innerHTML`.
+- Node creation: `createElement`, `createTextNode`.
+- Events: `addEventListener`, `removeEventListener`. Event bubbling.
+- Forms: `<form>`, `<input>`, `<button>`.
