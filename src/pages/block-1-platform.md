@@ -59,7 +59,7 @@
 
 ### Friday, May 10th (2h): The DOM
 
-- The Document Object Model (DOM).
+- The Document Object Model (DOM). `document`.
 - Element Queries: `getElementById`, `getElementsByTagName`, `getElementsByClassName`, `querySelector`, `querySelectorAll`.
 - `HTMLElement`: `textContent`, `classList`, `innerHTML`.
 - Node creation: `createElement`, `createTextNode`.
