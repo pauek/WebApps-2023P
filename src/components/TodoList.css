@@ -1,0 +1,35 @@
+.todo-list ul {
+  padding: 0;
+  margin: 1rem 0;
+  list-style-type: none;
+}
+.todo-list input[type=text] {
+  width: 20rem;
+  padding: .3rem .4rem;
+  margin-right: .3rem;
+}
+.todo-list .item {
+  padding: 0.35rem 0.5rem;
+  border: 1px solid #ddd;
+  border-top: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+.todo-list .item:first-child {
+  border-top: 1px solid #ddd;
+}
+.todo-list .item:hover {
+  background-color: #f7f7f7;
+}
+.todo-list .item.checked {
+  text-decoration: line-through;
+}
+.todo-list .item input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
+.todo-list button {
+  padding: .3rem .8rem;
+  margin-right: .3rem;
+}

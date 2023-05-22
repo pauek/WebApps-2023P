@@ -1,0 +1,37 @@
+.beer-search .beer-list .beer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.beer-search .beer-list .beer {
+  padding: .5rem;
+}
+.beer-search .beer-list .beer .title {
+  font-size: 14pt;
+  font-weight: bold;
+}
+.beer-search .beer-list .beer .tagline {
+  color: grey;
+  margin-top: .1rem;
+}
+.beer-search .beer-list .beer img {
+  height: 5rem;
+  width: 2.5rem;
+  margin-right: 1rem;
+  object-fit: contain;
+  padding: .3rem;
+  outline: 2px solid black;
+  box-shadow: 0 5px 10px grey;
+}
+.beer-search form {
+  margin-bottom: 1rem;
+}
+.beer-search form input, .beer-search form button {
+  padding: .2rem .4rem;
+}
+.beer-search form input[type=text] {
+  width: 18rem;
+}
+.beer-search form button {
+  margin-left: .3rem;
+}
